@@ -1,0 +1,27 @@
+h1, h3 {
+	padding: 20px;
+	color: white;
+	background-color: #790c00;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 20px;
+}
+
+form {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+main section {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	margin: 10px;
+	padding: 20px 40px 40px 40px;
+	background-color: white;
+}
