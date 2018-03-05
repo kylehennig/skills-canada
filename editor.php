@@ -14,8 +14,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="editor.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/editor.css" />
 </head>
 
 <body>
@@ -43,7 +43,7 @@
 			<input id="next" type="button" value="Next Page" onclick="nextPage();" />
 		</section>
 	</main>
-	<script src="editor.js"></script>
+	<script src="js/editor.js"></script>
 </body>
 
 </html>

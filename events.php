@@ -6,8 +6,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="events.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/events.css" />
 </head>
 
 <body>
@@ -27,7 +27,7 @@
 		</section>
 	</main>
 	<div id="modal" class="hidden"></div>
-	<script src="events.js"></script>
+	<script src="js/events.js"></script>
 </body>
 
 </html>

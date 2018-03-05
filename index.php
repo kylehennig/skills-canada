@@ -19,7 +19,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
 </head>
 
 <body>

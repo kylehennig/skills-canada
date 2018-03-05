@@ -14,8 +14,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="editor-tickets.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/editor-tickets.css" />
 </head>
 
 <body>
@@ -29,7 +29,7 @@
 			<table id="ticketList"></table>
 		</section>
 	</main>
-	<script src="editor-tickets.js"></script>
+	<script src="js/editor-tickets.js"></script>
 </body>
 
 </html>

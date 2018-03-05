@@ -14,7 +14,7 @@ Install XAMPP, available at https://www.apachefriends.org/index.html. Open the X
 Clone this repository using git to your htdocs folder (ie. `C:\xampp\htdocs`).
 
 
-An SQL database named "museum" should be created in order to achieve full functionality. Running the SQL commands in `museum.sql` should be enough to populate the database with stock data (you can import this file using http://localhost/phpmyadmin/).
+An SQL database named "museum" should be created in order to achieve full functionality. Running the SQL commands in `data/museum.sql` should be enough to populate the database with stock data (you can import this file using http://localhost/phpmyadmin/).
 
 Open http://localhost/ in your web browser of choice to view the website in action.
 

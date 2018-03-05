@@ -20,8 +20,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="tickets.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/tickets.css" />
 </head>
 
 <body>
@@ -89,7 +89,7 @@
 		</form>
 	</main>
 	<div id="modal" class="hidden"></div>
-	<script src="tickets.js"></script>
+	<script src="js/tickets.js"></script>
 </body>
 
 </html>

@@ -20,8 +20,8 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="confirm.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/confirm.css" />
 </head>
 
 <body>
@@ -43,7 +43,7 @@
 		</section>
 	</main>
 	<div id="modal" class="hidden"></div>
-	<script src="confirm.js"></script>
+	<script src="js/confirm.js"></script>
 </body>
 
 

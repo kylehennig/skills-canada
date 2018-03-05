@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="header.css" />
+<link rel="stylesheet" type="text/css" href="css/header.css" />
 
 <header>
 	<nav>
@@ -26,4 +26,4 @@
 </header>
 
 <script src="lib/jquery-3.2.0.min.js"></script>
-<script src="header.js"></script>
+<script src="js/header.js"></script>

@@ -33,8 +33,8 @@ JS;
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Winnipeg Railway Museum</title>
-	<link rel="stylesheet" type="text/css" href="index.css" />
-	<link rel="stylesheet" type="text/css" href="admin.css" />
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+	<link rel="stylesheet" type="text/css" href="css/admin.css" />
 </head>
 
 <body>
@@ -59,7 +59,7 @@ HTML;
 			<p>Note to judges: the username is 'admin' and the password is 'password'.</p>
 		</fieldset>
 	</form>
-	<script src="admin.js"></script>
+	<script src="js/admin.js"></script>
 </body>
 
 </html>
